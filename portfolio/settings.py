@@ -25,7 +25,7 @@ SECRET_KEY = ')eelo&04@9q6_bar7=-ca6!mt1*y2!gbhhhr3j!kz#pk_^tlot'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['glacial-brushlands-59267.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['heenasirohi.herokuapp.com','127.0.0.1']
 
 
 # Application definition
